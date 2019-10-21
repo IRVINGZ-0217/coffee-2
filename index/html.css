@@ -1,11 +1,13 @@
 body {
   font-family: sans-serif;
+  color: blue;
 }
 h1, h2{
   color: gray;
 }
 h1 {
   border-bottom:1px solid black ;
+  font-size:250px;
 }
 p {
    color: maroon;
@@ -13,6 +15,8 @@ p {
 }
 p.greentea{
   color: red;
+  font-size: 200px;
+
 }
 .zzz{
  color: yellow;

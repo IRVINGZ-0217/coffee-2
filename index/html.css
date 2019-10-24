@@ -1,27 +1,9 @@
-body {
-  font-family: sans-serif;
-  color: blue;
+p{
+  margin: 0;
+  padding: 0;
 }
-h1, h2{
-  color: gray;
-}
-h1 {
-  border-bottom:1px solid black ;
-  font-size:250px;
-}
-p {
-   color: maroon;
-   float: right;
-}
-p.greentea{
-  color: red;
-  font-size: 200px;
-
-}
-.zzz{
- color: yellow;
-}
-.zzz img{
-  width: 250px;
-  height: 200px;
+p{
+  border: 2px solid red;
+  padding: 10px;
+  margin-bottom: 20px;
 }

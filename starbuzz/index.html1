@@ -1,0 +1,17 @@
+ <div id="coupon">
+        <a href="./freecoffee.html"><img src="./images/ticket.gif">
+        </a>
+        </div>
+        #coupon{
+  position: absolute;
+  top: 350px;
+  left: 0px;
+}
+#coupon a, img{
+  border: none;
+}
+#coupon {
+  position: fixed;
+  top: 350px;
+  left: -90px;
+}
